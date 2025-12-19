@@ -1,0 +1,23 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#CCAD00" />
+    </linearGradient>
+  </defs>
+  <rect x="12" y="12" width="104" height="104" rx="18" ry="18" fill="url(#goldGradient)" transform="rotate(-6 64 64)"/>
+
+  <!-- Red badge dot -->
+  <circle cx="102" cy="18" r="12" fill="#800020" />
+
+  <!-- KJ text -->
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+        font-family="serif" font-size="56" font-weight="700" fill="#FFFFFF">
+    KJ
+  </text>
+</svg>
+
+
+
+
